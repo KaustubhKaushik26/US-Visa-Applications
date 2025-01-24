@@ -29,3 +29,18 @@ Best Model is K-Nearest Neighbor(KNN) with Accuracy 96.66%
 
 - [@KaustubhKaushik26](https://github.com/KaustubhKaushik26/US-Visa-Applications)
 
+# Workflow:
+
+1. Constants
+2. Entity
+
+# Export the environment variable
+
+
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
+export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
+
+export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
+
