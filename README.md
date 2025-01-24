@@ -15,6 +15,8 @@ The act also protects US workers against adverse impacts on working place and ma
 * This model is to check if Visa get approved or not based on the given dataset.
 * This can be used to Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the certain criteria which influences the decision.
 
+# Result Attained
+Best Model is K-Nearest Neighbor(KNN) with Accuracy 96.66%
 
 ## Acknowledgements
 
