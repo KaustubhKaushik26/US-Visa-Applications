@@ -1,11 +1,5 @@
-from us_visa.logger import logging
-import sys
+from us_visa.pipline.training_pipeline import TrainPipeline
+ 
+obj = TrainPipeline()
+obj.run_pipeline()
 
-# logging.info("Welcome to custom log")
-
-from us_visa.exception import USvisaException
-
-try:
-    a=1/0
-except Exception as e:
-    raise USvisaException(e,sys)

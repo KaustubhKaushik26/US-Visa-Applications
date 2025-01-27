@@ -32,7 +32,9 @@ Best Model is K-Nearest Neighbor(KNN) with Accuracy 96.66%
 # Workflow:
 
 1. Constants
-2. Entity
+2. Entity 
+3. Components
+4. Pipeline
 
 # Export the environment variable
 

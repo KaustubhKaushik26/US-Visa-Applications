@@ -8,6 +8,9 @@ COLLECTION_NAME = 'visa_data'
 MONGODB_URL_KEY = 'MONGODB_URL'
 PIPELINE_NAME = 'us_visa'
 ARTIFACT_DIR = 'artifact'
+TRAIN_FILE_NAME: str = "train.csv"
+TEST_FILE_NAME: str = "test.csv"
+FILE_NAME: str = "usvisa.csv"
 MODEL_FILE_NAME = 'model.pkl'
 
 """
