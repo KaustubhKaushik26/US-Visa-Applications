@@ -39,7 +39,7 @@ Best Model is K-Nearest Neighbor(KNN) with Accuracy 96.66%
 
 
 # Export the environment variable
-
+`bash`
 
 
 export MONGODB_URL="mongodb+srv://<username>:<password>...."
