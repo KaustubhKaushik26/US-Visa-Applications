@@ -85,7 +85,10 @@ Add the following secrets in GitHub:
 Here is a demo of our US Visa Prediction Application:
 
 ### 6.1 Visa Prediction Form 📝
-![Visa Prediction Form](output\images\output1.jpg)
+![Visa Prediction Form](output/images/output1.jpg)
 
 ### 6.2 Approved Visa ✅
-![Visa Approved](output\images\output2.jpg)
+![Visa Approved](output/images/output2.jpg)
+
+
+
